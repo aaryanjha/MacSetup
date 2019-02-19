@@ -16,3 +16,9 @@ curl -L https://get.oh-my.fish | fish
    ```
    chsh -s /usr/local/bin/fish
    ```
+## Configure Fish Shell
+- Open fish config website
+```
+fish_config
+```
+- Select your prompt and set.
